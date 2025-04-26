@@ -4,3 +4,5 @@
 – lista: Michał Piekarek
          Alan Wodarz
 Repozytorium GitHub: [Kliknij tutaj](https://github.com/Piekar199/moj-projekt.git)
+
+Plik `notatki.txt` został dodany do `.gitignore`
